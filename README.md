@@ -10,20 +10,18 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Users are easily able to navigate the site by using the buttons found at the top right corner underlined in red, orange, and yellow, as seen below.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+![alt text](assets/images/Screenshot1.png)
 
-![alt text](assets/images/screenshot.png)
+Users will automatically be directed to the corresponding blurbs, as seen below.
+
+![alt text](assets/images/Screenshot2.png)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Please refer to the LICENSE in the repo.
